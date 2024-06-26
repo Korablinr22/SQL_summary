@@ -7,7 +7,7 @@ SELECT *
   FROM Schedule
  LIMIT 5;
 ```
-<img src="https://github.com/Korablinr22/SQL_summary/assets/164523311/95314d36-6428-4811-b921-17d33ac0a5ac" width="50%">
+<img src="https://github.com/Korablinr22/SQL_summary/assets/164523311/95314d36-6428-4811-b921-17d33ac0a5ac" width="50%">  
 Отображены только первые 5 строк.
 
 Теперь представим, что нам нужно пропустить 3 строки сверху а остальное выгрузить, в этом случаем нам поможет оператор ```OFFSET```
@@ -26,6 +26,6 @@ SELECT *
  LIMIT 5
 OFFSET 1;
 ```
-<img src="https://github.com/Korablinr22/SQL_summary/assets/164523311/d5f220ab-5b6f-480c-a62c-c15ed385fc31" width="50%">
-
+<img src="https://github.com/Korablinr22/SQL_summary/assets/164523311/d5f220ab-5b6f-480c-a62c-c15ed385fc31" width="50%">  
+Операторы ```LIMIT``` и ```OFFSET``` принято записывать именно в таком порядке.
 
