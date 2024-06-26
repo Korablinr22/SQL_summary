@@ -8,8 +8,10 @@
 <br>
 
 ```
-SELECT 'Hello world'
+SELECT 'Hello world';
 ```
 ```
 Hello world
 ```
+![image](https://github.com/Korablinr22/SQL_summary/assets/164523311/ff355474-e8da-499b-922e-3266177d25f1)
+
