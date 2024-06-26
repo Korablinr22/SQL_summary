@@ -77,4 +77,4 @@ SELECT id,
 
 Пару слов о комментариях
 ![image](https://github.com/Korablinr22/SQL_summary/assets/164523311/e7324e75-9ae5-4141-b795-d1064c874a47)
-
+<img src="https://github.com/Korablinr22/SQL_summary/assets/164523311/e7324e75-9ae5-4141-b795-d1064c874a47" width="50%">
