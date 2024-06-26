@@ -17,6 +17,15 @@ FROM delivery
 OFFSET 3;
 ```
 <img src="https://github.com/Korablinr22/SQL_summary/assets/164523311/9fcc31ec-8a88-4f03-879b-e42d44ee7f2d" width="50%">
+<br>
 
+Самое полезное в этих двух операторах — это то, что их можно комбинировать между собой. Выгрузим 5 записей начиная со второй.
+```
+SELECT *
+  FROM Schedule
+ LIMIT 5
+OFFSET 1;
+```
+<img src="https://github.com/Korablinr22/SQL_summary/assets/164523311/d5f220ab-5b6f-480c-a62c-c15ed385fc31" width="50%">
 
 
