@@ -73,7 +73,8 @@ SELECT id,
        company
   FROM Trip; 
 ```
-<img src="https://github.com/Korablinr22/SQL_summary/assets/164523311/57e44dfa-a629-4b2d-8840-bd948ba5e026" width="50%">
+<img src="https://github.com/Korablinr22/SQL_summary/assets/164523311/57e44dfa-a629-4b2d-8840-bd948ba5e026" width="50%">  
+<br>
 
 Пару слов о комментариях
 <img src="https://github.com/Korablinr22/SQL_summary/assets/164523311/e7324e75-9ae5-4141-b795-d1064c874a47" width="50%">
