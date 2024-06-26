@@ -62,3 +62,15 @@ SELECT *        -- Выгрузи все из
   FROM Trip;    -- из таблицы "Trip"
 ```
 ![image](https://github.com/Korablinr22/SQL_summary/assets/164523311/d1de66c4-fd24-4914-9235-e06be4fa144c)
+<br>
+
+Для того, чтобы выгрузить не все поля, а только необходимые, нужно перечислить их через запятую после ```SELECT```
+<br>
+
+```
+SELECT id,
+       plane,
+       company
+  FROM Trip; 
+```
+![image](https://github.com/Korablinr22/SQL_summary/assets/164523311/57e44dfa-a629-4b2d-8840-bd948ba5e026)
