@@ -74,3 +74,7 @@ SELECT id,
   FROM Trip; 
 ```
 ![image](https://github.com/Korablinr22/SQL_summary/assets/164523311/57e44dfa-a629-4b2d-8840-bd948ba5e026)
+
+Пару слов о комментариях
+![image](https://github.com/Korablinr22/SQL_summary/assets/164523311/e7324e75-9ae5-4141-b795-d1064c874a47)
+
