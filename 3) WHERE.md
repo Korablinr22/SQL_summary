@@ -67,6 +67,6 @@ SELECT *
 Мы выбрали все записи из таблицы в которых ```plane = 'Boening'``` ```AND``` ```town_from != 'Paris'```, т.е. самолет везде Боинг а город отправления не являтеся Парижем.
 <br>
 
-<ing src="https://github.com/Korablinr22/SQL_summary/assets/164523311/8e17428b-886d-4847-a1b1-74a647fd6e90" width="50%">
+<img src="https://github.com/Korablinr22/SQL_summary/assets/164523311/8e17428b-886d-4847-a1b1-74a647fd6e90" width="50%">
 <br>
 
