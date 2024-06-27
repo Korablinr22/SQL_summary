@@ -1,1 +1,8 @@
-
+# WHERE
+С фильтрацией поможет оператор ```WHERE```, который записывается после ```FROM```.
+```
+SELECT *
+  FROM TRIP
+ WHERE plane = 'Boeing';
+```
+<img src="
