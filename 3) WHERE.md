@@ -70,3 +70,16 @@ SELECT *
 <img src="https://github.com/Korablinr22/SQL_summary/assets/164523311/8e17428b-886d-4847-a1b1-74a647fd6e90" width="50%">
 <br>
 
+## Оператор ```OR```
+Оператор ```OR``` работает так — в итоговую таблицу попадут записи, где выполняется хотя бы одно условие. Вернемся к нашему примеру и изменим его.
+```
+SELECT *
+  FROM Trip
+ WHERE plane = 'Boeing'
+    OR town_from != 'Paris';
+```
+Запрос вернет записи в которых ```plane = 'Boeing'``` ```OR``` ```town_from != 'Paris'``` либо самолет является Боингом либо город отправления не является Парижем, одно из двух.
+<img src="https://github.com/Korablinr22/SQL_summary/assets/164523311/6ff8f757-0e3a-4699-b7a4-60597f86a519" width="50%">
+<br>
+
+
