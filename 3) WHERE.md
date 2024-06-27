@@ -5,5 +5,7 @@ SELECT *
   FROM TRIP
  WHERE plane = 'Boeing';
 ```
-<img src="https://github.com/Korablinr22/SQL_summary/assets/164523311/f4acc8f8-9bbc-4833-b51a-390d665b28fd" width="50%">   
+<img src="https://github.com/Korablinr22/SQL_summary/assets/164523311/f4acc8f8-9bbc-4833-b51a-390d665b28fd" width="50%">  
+<br>
+
 Так, благодаря оператору ```WHERE``` и условию ```plane = 'Boeing'``` запрос вернул там строки, которые соответствуют условию фильтрации.
