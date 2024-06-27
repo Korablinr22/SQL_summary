@@ -28,4 +28,5 @@ SELECT id,
   FROM Trip
  WHERE plane = 'Boeing';
 ```
+<img src="https://github.com/Korablinr22/SQL_summary/assets/164523311/53c242a5-ebfe-4f8f-808f-2d2496201249" width="50%">
 Поля ```plane``` в итоговой выгрузке нет, не важно, есть ли фильтруемое поле в ```SELECT``` — данные по нему отфильтруются.
